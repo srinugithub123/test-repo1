@@ -1,0 +1,4 @@
+class hello
+class hello
+{
+}
